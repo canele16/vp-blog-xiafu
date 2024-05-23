@@ -4,25 +4,25 @@ layout: home
 
 hero:
   name: "可露丽的记事本"
-  text: "技术栈记录"
+  # text: "技术栈记录"
   image: 
-    src: /notebook.svg
+    src: /blog-logo.jpg
 
   # tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Introduction
+      link: /intro/
     - theme: alt
       text: API Examples
-      link: /api-examples
+      link: /intro/api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 你
+    details: 
+  - title: 能不能
+    details: 
+  - title: 再看我一眼
+    details: 
 ---
 
