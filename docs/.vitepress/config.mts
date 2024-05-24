@@ -5,6 +5,7 @@ export default defineConfig({
   title: "canele`s notebook",
   titleTemplate: "lovecanele",
   description: "canele`s blog powered by VitePress",
+  head: [['link', { rel: 'icon', href: '/vp-blog-xiafu/favicon.ico' }]],
   themeConfig: {
     // logo: '/cat.svg',
 
