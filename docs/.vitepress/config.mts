@@ -27,6 +27,13 @@ export default defineConfig({
           { text: "Item C", link: "/nav_beta/item-3" },
         ],
       },
+      {
+        text: " maa_copilot_frontend",
+        items: [
+          { text: "readme", link: "/maa_copilot_frontend/README" },
+          { text: "copilot", link: "/maa_copilot_frontend/copilot" },
+        ],
+      }
     ],
 
     sidebar: {
@@ -48,6 +55,16 @@ export default defineConfig({
             { text: "Item A", link: "/nav_beta/item-1" },
             { text: "Item B", link: "/nav_beta/item-2" },
             { text: "Item C", link: "/nav_beta/item-3" },
+          ],
+        },
+      ],
+      
+      maa_copilot_frontend: [
+        {
+          text: "maa_copilot_frontend",
+          items: [
+            { text: "readme", link: "/maa_copilot_frontend/README" },
+            { text: "copilot", link: "/maa_copilot_frontend/copilot" },
           ],
         },
       ],

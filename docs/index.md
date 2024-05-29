@@ -6,7 +6,8 @@ hero:
   name: "可露丽的记事本"
   # text: "技术栈记录"
   image: 
-    src: /blog-logo.jpg
+    # src: /blog-logo.jpg
+    src: /Goldenglow.png
 
   # tagline: My great project tagline
   actions:
